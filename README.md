@@ -12,8 +12,6 @@ Following are the few articles which will help you to get basic understanding an
 # Simple and short best video
 -  https://www.youtube.com/watch?v=4b5d3muPQmA
 
-
-
 ## Summary:
 AllLife Bank wants to run personalized campaigns to target new customers as well as upsell to existing customers.
 Also bank wants to improve the services provided as per imput from the market research team.
@@ -21,19 +19,17 @@ Operations team wants to upgrade the service delivery model, to ensure that cust
 
 # Objective :
 To identify different segments in the existing customer based on their spending patterns as well as past interaction with the bank,
-
 Using clustering algorithms provide recommendations to the bank on how to better market to and service these customers.
-
 Cluster profiling and pattern recognition for the simliar customers.
 
 # Data Dictionary :
-Sl_No: Primary key of the records
-Customer Key: Customer identification number
-Average Credit Limit: Average credit limit of each customer for all credit cards
-Total credit cards: Total number of credit cards possessed by the customer
-Total visits bank: Total number of visits that customer made (yearly) personally to the bank
-Total visits online: Total number of visits or online logins made by the customer (yearly)
-Total calls made: Total number of calls made by the customer to the bank or its customer service department (yearly)
+- Sl_No: Primary key of the records
+- Customer Key: Customer identification number
+- Average Credit Limit: Average credit limit of each customer for all credit cards
+- Total credit cards: Total number of credit cards possessed by the customer
+- Total visits bank: Total number of visits that customer made (yearly) personally to the bank
+- Total visits online: Total number of visits or online logins made by the customer (yearly)
+- Total calls made: Total number of calls made by the customer to the bank or its customer service department (yearly)
 
 
 ## What Steps we are performing  to achive  above objective:
